@@ -1,1 +1,9 @@
-# Memory-Allocator-task
+# Memory Allocator Task
+
+## Team Members
+
+1. محمود محمد عبدالحافظ محمد  
+2. أحمد علي حسن أحمد  
+3. كريم محمود سيد حسانين  
+4. عبدالرحمن عيد مسعود أحمد  
+
